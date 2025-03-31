@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1>I am Toufiq</h1>
-<img align="right" alt="Coding" width="400" height="160" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
+<img align="right" alt="Coding" width="400" height="168" src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif">
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Application<br>🤝 I’m looking for help with MERN<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Technology<br>⚡ Fun fact : I am also a Graphics Designer
 
 
